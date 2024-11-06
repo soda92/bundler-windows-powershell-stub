@@ -8,4 +8,6 @@ Gem::Specification.new do |s|
   s.files = [
     'plugins.rb'
   ]
+
+  s.add_dependency 'bundler', '>2'
 end
